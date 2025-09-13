@@ -57,9 +57,4 @@ It includes demographic info, job roles, salary ranges, programming preferences,
 
  
 
----
 
-## 📌 About
-This dashboard provides a breakdown of data professionals’ career journeys, salaries, and satisfaction levels.  
-It highlights the challenges of entering the field and showcases key metrics around demographics and job roles.  
-The project demonstrates my ability to **design interactive dashboards** and deliver **business-ready insights** using Power BI.  
