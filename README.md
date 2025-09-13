@@ -11,7 +11,7 @@ It provides insights into demographics, salaries, job satisfaction, and challeng
 ---
 
 ## 📂 Files in this Repository
-- `data_professionals_survey.pbix` → Power BI dashboard file  
+- `final project.pbix` → Power BI dashboard file  
 - `preview.png` → Screenshot of the dashboard  
 - `Screen Recording of dashboard.mp4` → Walkthrough demo video  
 - `survey dataset.xlsx` → Original dataset 
@@ -55,7 +55,7 @@ It includes demographic info, job roles, salary ranges, programming preferences,
 ## 📽️ Demo Video
 👉 [Screen Recording of dashboard.mp4](Screen%20Recording%20of%20dashboard.mp4)  
 
-*(For easier streaming, you can also upload the video to YouTube and replace this link with the YouTube link.)*  
+ 
 
 ---
 
