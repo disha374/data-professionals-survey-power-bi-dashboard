@@ -6,7 +6,7 @@ It provides insights into demographics, salaries, job satisfaction, and challeng
 ---
 
 ## 📊 Dashboard Preview
-![Survey Dashboard](Dashboard preview.png)
+![Survey Dashboard](preview.png)
 
 ---
 
