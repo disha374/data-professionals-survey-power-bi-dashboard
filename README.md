@@ -14,7 +14,7 @@ It provides insights into demographics, salaries, job satisfaction, and challeng
 - `data_professionals_survey.pbix` → Power BI dashboard file  
 - `dashboard.png` → Screenshot of the dashboard  
 - `Screen Recording of dashboard.mp4` → Walkthrough demo video  
-- `survey_data.csv` → Original dataset *(if allowed to share, otherwise provide dataset link)*  
+- `survey dataset.xlsx` → Original dataset 
 
 ---
 
